@@ -1,7 +1,6 @@
 
 import numpy as py
-import model.Nodes
+from model.Nodes import Node
 
 
 
-print('Hello world!')
